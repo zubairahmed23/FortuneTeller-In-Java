@@ -19,5 +19,6 @@ public class FortuneTeller{
         System.out.println("--------------------------------");
         System.out.println("Question = "+question);
         System.out.println("My Prediction = "+prediction);
+        System.out.println("--------------------------------");
     }
 }
